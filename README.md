@@ -34,7 +34,7 @@
 <a href="https://github.com/Afx-Abu/Abu_ser/fork"><img align="center" src="https://i.imgur.com/vUIRd80.png" alt="Fork and deploy" height="112" width="300" /></a>
 <br>
 <div>
-<a href="https://https://https://replit.com/@neymarIdol/SPIDY-SER-QR-2?v=1"><img align="center" src="https://i.imgur.com/SYoMXG2.png" alt="Scan QR" height="112" width="300" /></a>
+<a href="https://https://replit.com/@neymarIdol/SPIDY-SER-QR-2?v=1"><img align="center" src="https://i.imgur.com/SYoMXG2.png" alt="Scan QR" height="112" width="300" /></a>
 <br>
 
 <a href="https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgist.github.com%2F&template=https%3A%2F%2Fgithub.com%2FAfx-Spidy%2FSpidy-ser"><img align="center" src="https://i.imgur.com/eb2xb9u.png" alt="Fork and deploy" height="112" width="300" /></a>
